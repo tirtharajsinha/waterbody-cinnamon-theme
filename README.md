@@ -24,6 +24,6 @@ _It's important to run utils.sh from its containing directory._
 
 <img src="screenshot.png" alt ="">
 
-[repo]: https://github.com/tirtharajsinha
+[repo]: https://github.com/tirtharajsinha/waterbody-cinnamon-theme
 [spices]: https://cinnamon-spices.linuxmint.com/themes/view/waterbody
 
