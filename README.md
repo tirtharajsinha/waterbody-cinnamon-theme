@@ -22,7 +22,7 @@ _It's important to run utils.sh from its containing directory._
 
 **IMPORTANT**: Never edit CSS files directly. They are overriden at build.
 
-<img src="srceenshot.png" alt ="">
+<img src="screenshot.png" alt ="">
 
 [repo]: https://github.com/tirtharajsinha
 [spices]: https://cinnamon-spices.linuxmint.com/themes/view/waterbody
